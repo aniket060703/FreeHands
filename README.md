@@ -81,8 +81,6 @@ FreeHands serves as a platform for connecting service professionals with custome
 
 ## Resources
 
-- **Video Showcase:** [Video Showcase](https://drive.google.com/file/d/16DTqYcK01CCPg2Mo8PXqS2GRwHVJgADa/view?usp=drive_link)
-- **Project Report:** [Project Report](https://drive.google.com/file/d/1_bWkqs8BMyUR2GYJYuV4WF2eOJfikbsA/view?usp=drive_link)
 - **ER Diagram:** [ER Diagram](https://drive.google.com/file/d/1fbo9gQZTViTpVrwy9kKRJLDOt-7Uy6Oh/view?usp=drive_link)
 - **Wireframe:** [Wireframe](https://drive.google.com/file/d/1ob2HqtujsiZ5lLpvhdBY0kNT_2wG_X5w/view?usp=drive_link)
 
