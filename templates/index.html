@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}Home - Household Services{% endblock %}
+
+{% block content %}
+    <h1>Welcome to the Household Services Application</h1>
+    {% if session.get('user_id').startswith('CUS') %}
+        <p>Welcome, Customer! Browse services or request support.</p>
+    {% elif session.get('user_id').startswith('PRO') %}
+        <p>Welcome, Service Professional! Manage your profile and view requests.</p>
+    {% else %}
+        <p>Welcome, Admin! Manage users, professionals, and services.</p>
+    {% endif %}
+{% endblock %}
