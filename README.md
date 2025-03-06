@@ -38,7 +38,7 @@ FreeHands serves as a platform for connecting service professionals with custome
 
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/dhirajp1603/MAD-1.git
+     https://github.com/aniket060703/FreeHands.git
      ```
    - Or download as a ZIP file:
      - Navigate to the repository.
